@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-4ca%df(7xzy&&kpkz&+sgwatxzlzam7i$u8e%oaerrd^%-m(zs
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["DOCPAT-SMART-DISEASE-PREDICTOR.onrender.com", "127.0.0.1"]
 
 
 # Application definition
